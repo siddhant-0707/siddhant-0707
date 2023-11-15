@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm third-year Computer Science Undergraduate student at JIIT, Noida.
+I'm a third-year Computer Science Undergraduate student from India.
 - 😄 I love working with neural networks (creating/integrating operators is a great hobby)
 - 🌱 My interests involve AI Inference, LLMs and just a touch of Web Development
 - ✨ I'm big on promoting open source adoption
