@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 I'm a third-year Computer Science Undergraduate student from India.
-- 😄 I love working with neural networks (creating/integrating operators is a great hobby)
+- 😄 I love working with neural networks
 - 🌱 My interests involve AI Inference, LLMs and just a touch of Web Development
-- ✨ I'm big on promoting open source adoption
+- ✨ I'm big on promoting open-source adoption
 - 🔭 I’m currently working on improving the OpenVINO Toolkit
 - ⚡ I’m currently learning how to enhance LLMs through AI inference
-- 📫 Feel free to reach me through [Linkedin](https://www.linkedin.com/in/siddhant-chauhan07/)
+- 📫 Feel free to reach me through [Linkedin](https://www.linkedin.com/in/siddhant-chauhan07/) or [email](mailto:chauhanjoy10@gmail.com)
