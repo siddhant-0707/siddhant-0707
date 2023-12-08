@@ -21,5 +21,5 @@ I'm a third-year Computer Science Undergraduate student from India.
 - ✨ I'm big on promoting open-source adoption
 - 🔭 I’m currently working on improving the OpenVINO Toolkit
 - ⚡ I’m currently learning how to enhance LLMs through AI inference
-- 📖 Take a look at my [CV](https://drive.google.com/file/d/1doDmMur2xaodC4qkjSqPzysIGSPTT7lP/view?usp=sharing)
 - 📫 Feel free to reach me through [Linkedin](https://www.linkedin.com/in/siddhant-chauhan07/) or [email](mailto:chauhanjoy10@gmail.com)
+<!-- - 📖 Take a look at my [CV](https://drive.google.com/file/d/1doDmMur2xaodC4qkjSqPzysIGSPTT7lP/view?usp=sharing) -->
