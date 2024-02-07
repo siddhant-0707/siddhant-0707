@@ -20,6 +20,5 @@ I'm a third-year Computer Science Undergraduate student from India.
 - 😄 I love working with neural networks
 - 🌱 My interests involve DL, LLMs and just a touch of Web Development
 - ✨ I'm big on promoting open-source adoption
-- ⚡ I’m currently learning how to enhance LLMs through AI inference
 - 📫 Feel free to reach me through [Linkedin](https://www.linkedin.com/in/siddhant-chauhan07/) or [email](mailto:chauhanjoy10@gmail.com)
 <!-- - 📖 Take a look at my [CV](https://drive.google.com/file/d/1doDmMur2xaodC4qkjSqPzysIGSPTT7lP/view?usp=sharing) -->
