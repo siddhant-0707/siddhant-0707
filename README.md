@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a third-year Computer Science Undergraduate student from India.
 - 😄 I love working with neural networks
 - 🌱 My interests involve DL, LLMs and just a touch of Web Development
 - ✨ I'm big on promoting open-source adoption
