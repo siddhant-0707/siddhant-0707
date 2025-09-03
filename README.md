@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 ## Hi, I’m Siddhant 👋  
 **Student • Software/ML Engineer • Open-Source Contributor**
 
-- 🎓 **MS CS @ University of Florida (GPA 4.0)** — coursework in *Advanced Data Structures, Natural Language Processing, Trustworthy Machine Learning, Distributed Operating Systems*.  
-- 🧪 **GSoC 2025 — OpenVINO Toolkit (AI Contributor):** built a privacy-preserving desktop AI assistant for Telegram/Discord using **RAG (LangChain + Hugging Face + FAISS, bge-small-en-v1.5)**, achieving **~90% retrieval accuracy**; optimized on-device LLMs with **OpenVINO GenAI** (INT8/INT4) for **3× faster** inference and **4× smaller** models; shipped a **PyQt** UI with chat, model selection, and daily digests.
+- 🧪 **GSoC 2025 — OpenVINO Toolkit (AI Contributor):** private desktop RAG assistant for Telegram/Discord with OpenVINO‑optimized LLMs and a PyQt chat UI.
+- 🎓 **MS CS @ University of Florida** 
 
 ---
 
