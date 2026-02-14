@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Hi, I’m Siddhant 👋  
+<!--
 **Student • Software/ML Engineer • Open-Source Contributor**
 
 - 🧪 **GSoC 2025 — OpenVINO Toolkit (AI Contributor):** private desktop RAG assistant for Telegram/Discord with OpenVINO‑optimized LLMs and a PyQt chat UI.
 - 🎓 **MS CS @ University of Florida** 
-
----
+-->
 
 <!--
 ## 🔭 What I’m working on
@@ -32,22 +32,20 @@ Here are some ideas to get you started:
   Repo: <https://github.com/siddhant-0707/p2p-cn/> :contentReference[oaicite:4]{index=4}
 -->
 
+<!--
 ### 🧰 Tech I use
 **Languages:** `Python` `Go` `Java` `C++` `TypeScript`  
 **AI/ML:** `OpenVINO GenAI` `PyTorch` `TensorFlow` `RAG` `ONNX`  
 **Frameworks:** `LangChain` `FastAPI` `Flask` `Qt/PyQt` `React/Next.js` `Gin`  
 **Infra & Tools:** `Docker` `GitHub Workflows` `AWS (S3/EC2/RDS)` `GCP` `Linux/UNIX`  
 **Data:** `PostgreSQL` `MySQL` `Kafka`  
+-->
 
----
 
-
-### 📌 Quick links
+### links
 - **GitHub:** <https://github.com/siddhant-0707/>  
 - **LinkedIn:** <https://www.linkedin.com/in/siddhant-chauhan07/>  
 - **Email:** <mailto:chauhanjoy10@gmail.com>  
-
----
 
 #### 🤝 Open to
 AI/Software engineering roles, research collaborations, and impactful open-source projects.
