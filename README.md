@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 - **LinkedIn:** <https://www.linkedin.com/in/siddhant-chauhan07/>  
 - **Email:** <mailto:chauhanjoy10@gmail.com>  
 
-#### 🤝 Open to
+#### Open to
 AI/Software engineering roles, research collaborations, and impactful open-source projects.
 
 
