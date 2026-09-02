@@ -47,6 +47,8 @@ Here are some ideas to get you started:
 - **LinkedIn:** <https://www.linkedin.com/in/siddhant-chauhan07/>  
 - **Email:** <mailto:chauhanjoy10@gmail.com>  
 
+### Education
+Currently pursuing Master's in Computer Science at the University of Florida. Completed Bachelor's in Computer Science from Jaypee Institute of Information Technology, Noida, India.
 #### Open to
 AI/Software engineering roles, research collaborations, and impactful open-source projects.
 
