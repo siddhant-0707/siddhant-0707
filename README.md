@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 - **Email:** <mailto:chauhanjoy10@gmail.com>  
 
 ### Education
-Currently pursuing Master's in Computer Science @ University of Florida.
+Currently pursuing Master's in Computer Science @ University of Florida  
 Bachelor in Computer Science @ Jaypee Institute of Information Technology, India
 #### Open to
 AI/Software engineering roles, research collaborations, and impactful open-source projects.
